@@ -29,6 +29,9 @@ chatgpt_response = response.choices[0].message.content
 print(chatgpt_response)
 ```
 
-https://github.com/openai/whisper
+[Whisper](https://github.com/openai/whisper)
 
-Feito com <💜 /> DevRel [Nadi Duno](https://www.linkedin.com/in/nadiduno/) |  © 2023
+Feito com <💜 /> [@falvojr](https://github.com/falvojr) [Venilton FalvoJr](https://github.com/falvojr) | Diome
+
+
+DevRel [Nadi Duno](https://www.linkedin.com/in/nadiduno/) |  © 2023
